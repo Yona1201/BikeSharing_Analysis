@@ -1,5 +1,9 @@
 # Submission Dicoding "Belajar Analisis Data dengan Python"
 
+![SS Deploy](https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/academy/dos-68705e63ee0ef9422542d4e4ec2de35320241029223707.png)
+
+
+
 ## Struktur Direktori
 
 - **/data**: Direktori ini berisi data yang digunakan dalam proyek, dalam format .csv yaitu day.csv dan hour.csv
